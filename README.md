@@ -1,6 +1,15 @@
 # Battery-AI 🔋
 
-Battery-AI is an intelligent battery health and diagnostic assistant powered by Python, Streamlit, and Groq AI.
+### Intelligent Battery Health & Diagnostic Assistant
+
+**Created by:** Engr. Abdullah Awan  
+**Electrical Engineer | MS Electrical Engineering — Energy & Power Systems**  
+**Battery Manufacturing | Production | Electrical Maintenance | AI Application Development**
+
+---
+
+Battery-AI is an intelligent battery health and diagnostic assistant designed to help users understand battery condition, charging performance, load behavior, and possible battery-related problems.
+
 
 ## Features
 
